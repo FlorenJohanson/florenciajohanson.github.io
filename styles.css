@@ -1,0 +1,43 @@
+em.enfasis {
+    font-style: bold;
+}
+
+body {
+    font-family:Arial;
+}
+
+.trabajo { 
+    border:3px solid black;
+    border-radius:22px;
+    padding:9px;
+}
+
+.educacion {
+    border:3px solid black;
+    border-radius:22px;
+    padding:9px;
+}
+
+.referencias {
+    border:3px solid black;
+    border-radius:22px;
+    padding:9px;
+}
+
+#informacion {
+    border:3px solid black;
+    border-radius:22px;
+    padding:9px;
+}
+
+#titular {
+    border:3px solid black;
+    border-radius:22px;
+    padding:9px;
+    padding-bottom: 85px;
+}
+
+
+img {
+    float:right;
+}
