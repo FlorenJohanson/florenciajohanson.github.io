@@ -34,10 +34,13 @@ body {
     border:3px solid black;
     border-radius:22px;
     padding:9px;
-    padding-bottom: 85px;
 }
 
 
 img {
     float:right;
+
+    max-width: 8rem; /* Define un ancho máximo para la imagen */
+    height: 8rem; /* Mantiene la proporción de la imagen */
+ 
 }
