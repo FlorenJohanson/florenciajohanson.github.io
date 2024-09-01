@@ -39,8 +39,7 @@ body {
 
 img {
     float:right;
-
-    max-width: 8rem; /* Define un ancho máximo para la imagen */
+    max-width: 100%; /* Define un ancho máximo para la imagen */
     height: 8rem; /* Mantiene la proporción de la imagen */
  
 }
